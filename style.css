@@ -1,6 +1,4 @@
-/* =========================
-   RESET
-========================= */
+/*  RESET  */
 
 * {
   margin: 0;
@@ -8,9 +6,7 @@
   box-sizing: border-box;
 }
 
-/* =========================
-   BODY
-========================= */
+/*  BODY  */
 
 body {
   font-family: Arial, sans-serif;
@@ -23,9 +19,7 @@ body {
   min-height: 100vh;
 }
 
-/* =========================
-   MAIN CONTAINER
-========================= */
+/*  MAIN CONTAINER  */
 
 .todo-container {
   width: 400px;
@@ -43,9 +37,7 @@ body {
   color: #333;
 }
 
-/* =========================
-   INPUT SECTION
-========================= */
+/*  INPUT SECTION  */ 
 
 .input-section {
   display: flex;
@@ -80,9 +72,7 @@ body {
   background: #388E3C;
 }
 
-/* =========================
-   TODO LIST
-========================= */
+/*  TODO LIST  */
 
 #todoList {
   list-style: none;
