@@ -1,12 +1,8 @@
-/* =========================
-   ARRAY TO STORE TASKS
-========================= */
+/*  ARRAY TO STORE TASKS  */
 
 var tasks = [];
 
-/* =========================
-   ADD TASK
-========================= */
+/*  ADD TASK   */
 
 function addTask() {
 
@@ -38,9 +34,7 @@ function addTask() {
 }
 
 
-/* =========================
-   DISPLAY TASKS
-========================= */
+/*  DISPLAY TASKS   */
 
 function renderTasks() {
 
@@ -83,9 +77,7 @@ function renderTasks() {
 }
 
 
-/* =========================
-   COMPLETE / UNDO TASK
-========================= */
+/*  COMPLETE / UNDO TASK   */
 
 function toggleTask(id) {
 
@@ -101,9 +93,7 @@ function toggleTask(id) {
 }
 
 
-/* =========================
-   DELETE TASK
-========================= */
+/*  DELETE TASK   */
 
 function deleteTask(id) {
 
